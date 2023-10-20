@@ -11,6 +11,7 @@ To create and execute SOAP-based web service program using server, client and cl
 Open NetBeans IDE.
 #### Step 2:
 Click File->New Project. Choose Java Web and then Web Application and click Next.
+
 ![2](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/53b21d93-3784-4a69-b64a-ac255b66a132)
 
 
@@ -39,7 +40,7 @@ Right click your Project and select New->Web-Service.
 #### Step 7:
 In the new window, give your web service a name and a package name. Click Finish.
  
- ![7](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/f6e330f4-a62a-44bb-9ce1-53e54db577f4)
+![7](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/f6e330f4-a62a-44bb-9ce1-53e54db577f4)
 
 
 
@@ -113,12 +114,14 @@ A new window will appear. Select “Project” under the heading “Specify the 
 
 #### Step 4: 
 A new window will appear, in that carefully choose appropriate web service and click OK.
- ![c4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/b4050bbd-3c0c-4c57-b6cb-27325f140340)
+
+![c4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/b4050bbd-3c0c-4c57-b6cb-27325f140340)
 
  
 #### Step 5:
 The Project file will be filled with the location to the WSDL file of the web service. If you prefer, you can give a package name. Or else click Finish
- ![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
+
+![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
 
 
 
